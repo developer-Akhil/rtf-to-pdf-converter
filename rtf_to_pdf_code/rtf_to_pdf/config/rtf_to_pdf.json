@@ -1,0 +1,9 @@
+{
+  "rtf_to_pdf" : {
+    "src_bucket":"s3-rtf-to-pdf",
+    "src_prefix": "dataz/src_loc/",
+    "dist_bucket":"s3-rtf-to-pdf/",
+    "dist_prefix": "dataz/dist_loc",
+    "tmp_prefix":""
+  }
+}
