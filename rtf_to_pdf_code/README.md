@@ -8,7 +8,10 @@ PDF is an abbreviation that stands for Portable Document Format. It's a versatil
 
 # RTF To PDF Converter
 It is Open Sources Python Framework to convert RTF to PDF, it has the capability to process single or multiple files. Below are some of the given information:
+
 **Compatibility**: Ensure that the converter supports RTF files and coverts them accurately into PDF format without losing formatting or content.
+
 **Ease of use:** Look for a converter that is user-friendly, with a simple interface and intuitive controls.
 Integration with other application: It is a framework that can be used on any platform and is compatible with other applications and software.
+
 **Quality of output**: The converter maintains the quality of the document during the conversion process.
