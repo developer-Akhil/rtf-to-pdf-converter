@@ -18,3 +18,4 @@ class DocToPdf:
         # Save the file to a PDF file
         document.SaveToFile(pdf_file, FileFormat.PDF)
         document.Close()
+
