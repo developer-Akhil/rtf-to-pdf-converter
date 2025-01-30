@@ -60,3 +60,4 @@ class CommonFun(object):
     def delete_file(self, bucket_nm: str, prefix: str, key: str):
         self.s3_resource_obj.Object(bucket_nm, prefix + key).delete()
 
+
