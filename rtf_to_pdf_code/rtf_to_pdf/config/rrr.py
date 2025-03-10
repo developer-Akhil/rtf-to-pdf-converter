@@ -46,10 +46,6 @@ if __name__ == "__main__":
 
 
 
-
-
-
-
 # from spire.doc import Document, FileFormat
 #
 # # Create a Document instance
